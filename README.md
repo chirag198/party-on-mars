@@ -22,10 +22,10 @@ A rover's position is represented by a combination of an x and y co-ordinates an
 
 In order to control a rover, we need string of letters. The possible letters are 'F', 'B' and 'L' and 'R'.
 
-F -> Move forward on current heading
-B -> Move backwards on current heading
-L -> Rotate left by 90 degrees
-R -> Rotate right by 90 degrees 
+F -> Move forward on current heading<br/>
+B -> Move backwards on current heading<br/>
+L -> Rotate left by 90 degrees<br/>
+R -> Rotate right by 90 degrees<br/>
 
 
 # Input:

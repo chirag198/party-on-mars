@@ -3,6 +3,8 @@
 
 
 # How To Run:
+You can either download .zip file from Github or fork the repository and clone project.
+
 Step-1: Open the Terminal.<br/>
 Step-2: Navigate to the directory: /party-on-mars/<br/>
 Step-3: Enter following command on your terminal: python3 main.py.<br/>
